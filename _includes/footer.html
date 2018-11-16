@@ -2,6 +2,8 @@
 <section id="contact">
 	<div class="inner">
 		<section>
+			<h3> We’re here to help. <br />Optimize your business with advanced machine learning</h3>
+
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
@@ -48,7 +50,7 @@
 					    {{ site.city }},
 					{% endif %}
 					{% if site.state %}
-					    {{ site.state }} 
+					    {{ site.state }}
 					{% endif %}
 					{% if site.zip_code %}
 					    {{ site.zip_code }}<br />
@@ -92,7 +94,8 @@
 				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
 				{% endif %}
 				{% if site.slack_url %}
-				<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+				<li>
+				<a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
 				{% endif %}
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
@@ -100,8 +103,7 @@
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+				<li><a href="terms" target="_blank">Privacy & Terms</a></li>
 
 			</ul>
 		</div>
