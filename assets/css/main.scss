@@ -7,12 +7,6 @@
 @import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic');
 
-/*
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 	@include skel-breakpoints((
 		xlarge: '(max-width: 1680px)',
 		large: '(max-width: 1280px)',
@@ -38,7 +32,7 @@
 
 	@mixin inner {
 		> .inner {
-			@include padding(4em, 0);
+			@include padding(2em, 0);
 			margin: 0 auto;
 			max-width: _size(inner);
 			width: calc(100% - 6em);
@@ -49,6 +43,7 @@
 			}
 		}
 	}
+
 
 // Base.
 
@@ -78,3 +73,21 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+/*
+	.light {
+		background-color: rgba(244,244,255,1) !important;
+		color: black;
+	}
+
+	.light h2 {
+		color: black;
+	}
+
+	.light actions, input[type="submit"],
+	input[type="reset"], input[type="button"],
+	a.button,  {
+		box-shadow: inset 0 0 0 2px #7d7d7d;
+		color: #9e9e9e;
+	}
+*/

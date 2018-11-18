@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Augmenting human<br /> intelligence'
 description: null
-image: null
+image: assets/images/blockchain.jpg
 author: null
 show_tile: false
 ---

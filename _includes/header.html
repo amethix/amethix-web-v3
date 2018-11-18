@@ -3,7 +3,13 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<a href="{{ "" | absolute_url }}/" class="logo">
+		<img src="/assets/images/amethix-logo-white.png" height="55px">
+		<!--
+		<strong>{{ site.title }}</strong>
+		<span style="background-image: url(/assets/images/amethix-logo-white.png);">{{ site.subtitle }}</span>
+		-->
+	</a>
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
@@ -25,6 +31,6 @@
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
+		<!-- <li><a href="#" class="button fit">Log In</a></li> -->
 	</ul>
 </nav>
