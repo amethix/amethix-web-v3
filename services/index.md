@@ -1,28 +1,26 @@
 ---
 layout: post
 title: Services
-description: Our services are designed for the public, private, and non-profit sectors and help organizations quickly implement solutions to their hardest business problems
+description: Our services are designed for the public, private, and non-profit sectors
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-<h4>Our services are designed for the public, private, and non-profit
-sectors and help organizations quickly implement solutions to their hardest
-business problems</h4>
+Discover the services we provide to help organizations quickly implement solutions to their hardest business problems
 
 
 <div class="row">
 
 	<div class="6u 12u$(small)">
 		<h3>Blockchain Technology</h3>
-		<p>Design and maintain blockchain related products and services and optimize business cases for better transparency and disintermediation.</p>
-    <a href="#" class="button small">Read More</a>
+		<p style="min-height: 130px">Design and maintain blockchain related products and services and optimize business cases for better transparency and disintermediation.</p>
+    <a href="blockchain" class="button small">Read More</a>
 	</div>
 
 	<div class="6u$ 12u$(small)">
 		<h3>Machine Learning</h3>
-		<p>Advanced methods in machine learning to analyze, extract and tranform data and drive more operational planning.</p>
-    <a href="#" class="button small">Read More</a>
+		<p style="min-height: 130px">Advanced methods in machine learning to analyze, extract and tranform data and drive more operational planning.</p>
+    <a href="machinelearning" class="button small">Read More</a>
 	</div>
 
 	<!-- Break -->
@@ -44,19 +42,17 @@ business problems</h4>
 </div>
 <hr class="major" />
 
-
 <div class="row">
-
 	<div class="6u 12u$(small)">
 		<h3>Pharma RWE</h3>
-		<p>Improve the accuracy of disease prediction and drug development with real-world data and protecting patient data privacy. </p>
-    <a href="#" class="button small">Read More</a>
+		<p style="min-height: 130px">Improve the accuracy of disease prediction and drug development with real-world data and protecting patient data privacy. </p>
+    <a href="pharma" class="button small">Read More</a>
 	</div>
 
 	<div class="6u$ 12u$(small)">
 		<h3>Finance Analytics</h3>
-		<p>Integrate and analyze personal finance data to identify spending trends, improve personal finance, provide reliable financial scores to institutions. </p>
-    <a href="#" class="button small">Read More</a>
+		<p style="min-height: 130px">Integrate and analyze personal finance data to identify spending trends, improve personal finance, provide reliable financial scores to institutions. </p>
+    <a href="finance" class="button small">Read More</a>
 
 	</div>
 </div>

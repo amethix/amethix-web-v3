@@ -1,45 +1,17 @@
 ---
-layout: page
+layout: post
 title: Solutions
 description: We design and build data analytics engines to support decision making - the kind of work that empowers humans at their most important tasks and business
 image: assets/images/whiteboard.jpg
 nav-menu: true
 ---
 
-<!-- Main -->
-<div id="main" class="alt">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Solutions</h1>
-		</header>
 
-<!-- Content -->
-<div class="box">
 Amethix Technologies design and build data analytics engines to support decision making - the kind of work that empowers humans at their most important tasks and business.
 We provide custom solutions from inception and proof-of-concept to production.
-</div>
-
-<h2 id="content">Machine Learning</h2>
-Advanced data exploration and preparation techniques are followed by modeling physical phenomena and business cases with cutting edge mathematical statistical methods and data algorithms. Development of prototypes and production-ready software components are performed with the most advanced and competitive frameworks. Not only does Amethix integrate with your data, it also integrates with your workflow and adapt to integrate with your organization's business process.
-
-<p>
-The tasks performed are listed and not limited to:
-<ul>
-<li>Algorithm design</li>
-<li>Feature engineering</li>
-<li>Data collection and preparation</li>
-<li>Creation of advanced statistical models</li>
-<li>Predicting equipment failure</li>
-<li>Synthetic data generation</li>
-<li>Technical reports and whitepapers </li>
-</ul>
-</p>
 
 
-<h2 id="content">What we do</h2>
 <div class="row">
 <!--
 	<div class="6u 12u$(small)">
@@ -52,20 +24,86 @@ The tasks performed are listed and not limited to:
 	</div>
 	-->
 	<!-- Break -->
+
 	<div class="4u 12u$(medium)">
+	<div class="box">
 		<h3>Data analytics platforms</h3>
-		<p>Back-end infrastructure to integrate and manage any type of data, from different sources, in any domain.
+		<p>Production-ready machine learning to integrate and manage diverse types of data, generated from different sources
 		</p>
 	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Machine learning models</h3>
-		<p>Advanced methods in machine learning to extract knowledge from raw data and create value for your business.</p>
 	</div>
+
+
+	<div class="4u 12u$(medium)">
+		<div class="box">
+		<h3>Machine learning models</h3>
+		<p>Advanced methods in machine learning to extract knowledge from raw data and create value for your business</p>
+	</div>
+	</div>
+
 	<div class="4u$ 12u$(medium)">
-		<h3>For any application domain</h3>
-		<p>Research in AI and cutting edge technologies ready to be deployed today, adapting to different domains.</p>
+	<div class="box">
+		<h3>Many application domains</h3>
+		<p>Research in AI and cutting edge technologies ready to be deployed today, adapting to different domains</p>
+	</div>
 	</div>
 </div>
+
+
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+	<div class="box">
+		<h3>Research&Design</h3>
+		<p>Prepare to deal with complex projects in the most efficient way, from feasibility study to requirement analysis
+		</p>
+	</div>
+	</div>
+
+
+	<div class="4u 12u$(medium)">
+		<div class="box">
+		<h3>Training</h3>
+		<p>Technical training courses in production-ready machine learning to prepare teams solve complex business problems </p>
+	</div>
+	</div>
+
+	<div class="4u$ 12u$(medium)">
+	<div class="box">
+		<h3>Technical Writing</h3>
+		<p>Documentation and technical articles of academic quality to better communicate ideas and projects</p>
+	</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- Elements -->
@@ -452,7 +490,3 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </div>
 </div>
 -->
-</div>
-</section>
-
-</div>
