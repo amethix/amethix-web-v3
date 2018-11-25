@@ -37,28 +37,31 @@ nav-menu: true
 	<section>
 		<div class="content">
 
-		<p>We believe in augmenting human intelligence, not replacing it.
-		With good data and the right technology, people and institutions today can still solve hard problems and change the world for the better.
-		In 2004, when we looked at the available technology, we saw products that were too rigid to handle novel problems, and custom systems that took too long to deploy and required too many services to maintain and improve.</p>
+		<p>We believe in augmenting human intelligence. Not replacing it.
+		Better data and innovative technology are a perfect combination that allows people and organisations to solve
+		hard problems for their business and humanity.
+		It is essential for our clients and partners to have access to the best technology and the most effective
+		data collection strategies.</p>
 		</div>
 
 		<div class="content">
-		<p>We saw automated approaches that failed against adaptive adversaries, and all-or-nothing access controls that forced organizations to make unacceptable trade-offs between collaborating and securing sensitive data from misuse.
-		We saw a need for a different kind of technology, and we knew it would take a different kind of company to build it. That’s why we founded Palantir. </p>
+		<p>
+		In the years we have seen many organisations failing and misusing off-the-shelf machine learning solutions that are not expensive to deploy and require little or no design effort. We believe in customised solutions. Because every problem is different, and every organisations have very specific requirements to satisfy.
+		We saw a need for a different type of company, that is close to their customers from day one.
+		That's why we founded Amethix Technologies.</p>
 		</div>
 	</section>
 
 
-
+<!--
 	<section>
 	<div class="inner centered">
 	<p style="width:70%; margin: auto; margin-top:42px; margin-bottom: 42px">
 	Our customers have data and a deep understanding of the problems they face. We have proven products and an engineering mindset. We send our engineers into the field to work directly with our customers—deploying our products, integrating their data, optimizing their workflows, and producing operational results in weeks, not years. By establishing a true partnership, we help customers get the most out of our products and engineering expertise.
 	</p>
-
 	</div>
 	</section>
-
+-->
 
 <!--
 	<section>
@@ -126,14 +129,14 @@ nav-menu: true
 		<p>
 		Amethix comes from "amethyst", the violet variety of quartz.
 		While in the modern age it is a stone used as a mere decorative emblem, ancient civilizations like the Greeks and the Romans used amethyst to make jewelry and amulets, placing a high value in this stone.
-		The name amethyst translates in Greek to, “not drunken.” An ancient Greek myth explains this seemingly odd name. According to the myth, the god Bacchus was angry, and had vowed to descend a hoard of tigers upon the first person who crossed his path.
-		Amethyst was on her way to give thanks at the shine of the god Diana, when she happened upon Bacchus.
+		The name amethyst translates in Greek to, “not drunken.” According to an ancient Greek myth, when the god Bacchus was angry he had vowed to descend a hoard of tigers upon the first person who crossed his path.
 		</p>
 		</div>
 
 		<div class="content">
 		<p>
-		 Before the tigers could eat Amethyst, she was saved by Diana, who turned her into a clear crystal. Bacchus, remorseful for the fate he had so recklessly caused the girl, poured the juice of grapes over the stone as an offering, and thus bestowed the crystal with its unique purple coloring. The greeks gave amethyst crystal meaning, perpetuating a belief that it could inhibit the intoxication of all who wore it. In the Chinese philosophy of Feng Shui, amethyst meaning is quite different. Amethyst properties are not of sobriety, but of wealth in this ancient harmonizing technique. If placed in the wealth corner, amethyst can amplify the flow of prosperity into the home.
+		Amethyst was on her way to give thanks at the shine of the god Diana, when she happened upon Bacchus.
+		 Before the tigers could attack Amethyst, she was saved by Diana, who turned her into a clear crystal. Bacchus, remorseful for the fate he had so recklessly caused the girl, poured the juice of grapes over the stone as an offering, and thus bestowed the crystal with its unique purple coloring. The greeks gave amethyst crystal meaning, perpetuating a belief that it could inhibit the intoxication of all who wore it.
 		</p>
 		</div>
 	</section>
