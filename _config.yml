@@ -5,7 +5,7 @@ subtitle:
 email: hello@amethix.com
 description: High quality data and technology empower people and organizations to ask and answer complex questions. We create products that transform the way institutions use their data and solve hard problems.
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: https://amethix.com # the base hostname & protocol for your site
+url: https://amethix.io # the base hostname & protocol for your site
 author: Amethix Technologies
 street_address: 1 Stadsvest
 city: Leuven
